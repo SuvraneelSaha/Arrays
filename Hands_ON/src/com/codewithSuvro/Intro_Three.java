@@ -16,6 +16,10 @@ public class Intro_Three {
         // the actual object creating in the heap happens at runtime
         // --- > this is known as dynamic memory allocation
          // ie at the runtime the memory is allocated
-        
+
+        // the reference var gets stored in the stack memory
+        // whereas the objects are stored in the heap memory
+
+
     }
 }
