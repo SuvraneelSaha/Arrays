@@ -42,7 +42,7 @@ public class Index {
         //  null is not a datatype
         // only can be assigned with non primitives
         // by default value of primitives or what the reference variables point to
-        
+
 
 
 
