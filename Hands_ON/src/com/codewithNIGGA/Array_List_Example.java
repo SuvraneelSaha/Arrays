@@ -26,7 +26,10 @@ public class Array_List_Example {
         list.add(2112);
 
         System.out.println(list);
-
+    // printing all the items or elements present inside the list data type
+        // it allows us to allocate an unkown nos or elements into a data structure that can be used later on
+        // the minimum capacity does not matter but we specify as it is a good practice
+        
 
 
     }
