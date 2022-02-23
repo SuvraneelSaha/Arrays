@@ -11,6 +11,9 @@ public class Col_NO_Fixed {
                 {4,5},
                 {6,7,8,9}
         };
+
+        // arr[row].length is used for dynamic arrays
+        // wehen we dont know the no. of columns present in a 2d array 
         for (int row = 0; row < arr.length ; row++) {
             for (int col = 0; col < arr[row].length ; col++)
             // arr[row].length is used
