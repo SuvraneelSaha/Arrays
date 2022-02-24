@@ -19,7 +19,7 @@ public class Array_List {
         System.out.println(list);
 
         list.set(0,99); // this set is used to replace the element at the given index with another element
-        
+
         System.out.println(list);
 
         list.remove(0);
