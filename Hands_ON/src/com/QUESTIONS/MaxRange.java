@@ -26,6 +26,23 @@ public class MaxRange {
         // but this method is more efficient for dynamic purposes
         // we could also use the starting value as the max value
         // ie
+        if(b < a)
+        {
+            return -1;
+        }
+        if(arr == null)
+        {
+            return -1;
+        }
+        if(arr.length==0)
+        {
+            return -1;
+        }
+        // work on the edge cases like the array is empty or the range is altered
+
+
+
+
         int max = arr[a];
         // we treat this arr[a] that is the starting element as the maximum value cause
         // for optimization and again for better use
