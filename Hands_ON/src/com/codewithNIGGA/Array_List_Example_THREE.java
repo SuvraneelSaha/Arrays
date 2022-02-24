@@ -24,7 +24,7 @@ public class Array_List_Example_THREE {
             System.out.println(list.get(i));
             //  pass index here ,   list[index] syntax will not work here
             // we need to use .get function with the arraylist so that we could print the elements
-            
+
 
         }
 
