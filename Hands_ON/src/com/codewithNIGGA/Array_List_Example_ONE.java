@@ -42,6 +42,7 @@ public class Array_List_Example_ONE {
         System.out.println(list.remove(1));
         // this method or function list.remove(index position)
         // helps to remove the element present at the position 1 or ant specified position ie index given by the user
+        // this System.out.println(list.remove(1)); will only show the deleted item on the cmd
 
         System.out.println(list);
 
