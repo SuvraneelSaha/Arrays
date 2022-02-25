@@ -11,7 +11,7 @@ public class Swap {
         System.out.println(Arrays.toString(arr));
         System.out.println();
         swap(arr,1,2);
-        // explicitly assigning the indexes that are going to be swaped or changed 
+        // explicitly assigning the indexes that are going to be swaped or changed
         System.out.println(Arrays.toString(arr));
 
 
