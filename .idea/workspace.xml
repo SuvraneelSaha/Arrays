@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41589c32-9dbc-4692-8d4a-064b3bfb833f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice_EASY/src/com/coderNIGGA/Two_Pointer_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +76,9 @@
       </method>
     </configuration>
     <configuration name="Two_Pointer_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coderNIGGA.Two_Pointer_Reverse" />
-      <module name="Practice_EASY" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.coderNIGGA." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.coderNIGGA.*" />
@@ -88,6 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Max_Edge" />
+      <item itemvalue="Application.Reverse_Array" />
+      <item itemvalue="Application.Two_Pointer_Reverse" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Two_Pointer_Reverse" />
