@@ -18,7 +18,7 @@ public class Two_Pointer_Reverse {
         System.out.println(Arrays.toString(arr));
         reverse(arr);
         System.out.println(Arrays.toString(arr));
-
+        in.close();
 
     }
     static void reverse(int[] arr)
